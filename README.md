@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=be-next&show_icons=true&hide_border=false&include_all_commits=true&show=reviews&theme=vue&border_color=343341" />
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=be-next&hide_border=false&layout=compact&exclude_repo=acuteenvy.github.io&theme=vue&border_color=343341" />
+</a>
+
 <!--
 **be-next/be-next** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
