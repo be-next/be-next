@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jramette/)
+[<img src="https://img.shields.io/github/followers/be-next?label=follow&style=social" height="22" title="Follow me" />](https://github.com/be-next) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/baron_von_humboldt)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jerome.ramette@gmail.com)
+
+
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=be-next&show_icons=true&hide_border=false&include_all_commits=true&show=reviews&theme=vue&border_color=343341" />
   <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=be-next&hide_border=false&layout=compact&exclude_repo=acuteenvy.github.io&theme=vue&border_color=343341" />
