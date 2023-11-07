@@ -2,8 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jramette/)
 [<img src="https://img.shields.io/github/followers/be-next?label=follow&style=social" height="22" title="Follow me" />](https://github.com/be-next) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/baron_von_humboldt)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jerome.ramette@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/baron_von_humboldt)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jerome.ramette@gmail.com)
 
 
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
