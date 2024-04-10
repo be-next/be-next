@@ -1,4 +1,11 @@
-### Welcome to <!-- ascii_art start --><!-- ascii_art end --> repositories
+### Welcome to <!-- ascii_art start -->
+```text
+ _                          _   _    
+| |__  ___ ___ _ _  _____ _| |_( )___
+| '_ \/ -_)___| ' \/ -_) \ /  _|/(_-<
+|_.__/\___|   |_||_\___/_\_\\__| /__/
+```
+<!-- ascii_art end --> repositories
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jramette/)
 [<img src="https://img.shields.io/github/followers/be-next?label=follow&style=social" height="22" title="Follow me" />](https://github.com/be-next) 
@@ -22,6 +29,8 @@
 More on [idle-ti.me](https://idle-ti.me)
 <!-- blog end -->
 
-<sub><!-- last_updated start -->2024-04-10<!-- last_updated end --></sub>
+<sub><!-- last_updated start -->
+Last updated on Wednesday, 10 April 2024, 20:05.
+<!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
