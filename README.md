@@ -12,8 +12,14 @@
 </a>
 
 <!-- blog start -->
+### Latest blog posts
+
+- [How to deploy a Zola website using S3 Bucket and CloudFront](https://idle-ti.me/blog/zola-aws/) • 2024-03-11
+- [WAZE Syndrome and Bias Sensitivity](https://idle-ti.me/blog/waze-syndrome/) • 2024-03-06
+
+More on [idle-ti.me](https://idle-ti.me)
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start --><!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2024-04-10<!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
