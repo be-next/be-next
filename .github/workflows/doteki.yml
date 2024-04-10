@@ -1,0 +1,23 @@
+# This is the workflow file for doteki-action: https://github.com/welpo/doteki-action
+# The action simply runs dōteki on the root of the repo and pushes the changes.
+# dōteki makes it easy to add dynamic content to your GitHub profile through plugins.
+# For more information and documentation, visit https://doteki.org/
+
+name: Update README with dōteki
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '21 * * * *'  # Every hour at XX:21.
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Necessary to push changes.
+    steps:
+      - name: Run dōteki action
+        uses: welpo/doteki-action@main  # Use latest version of doteki-action (and dōteki).
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
