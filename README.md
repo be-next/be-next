@@ -18,14 +18,14 @@
 <!-- blog start -->
 ### Latest blog posts
 
-- [How to deploy a Zola website using S3 Bucket and CloudFront](https://idle-ti.me/blog/zola-aws/) • 2024-03-11
-- [WAZE Syndrome and Bias Sensitivity](https://idle-ti.me/blog/waze-syndrome/) • 2024-03-06
+- [Zola: How to deploy a website using S3 Bucket and CloudFront](https://idle-ti.me/blog/zola-aws/) • 2024-03-11
+- [AI: WAZE Syndrome and Bias Sensitivity](https://idle-ti.me/blog/waze-syndrome/) • 2024-03-06
 
 More on [idle-ti.me](https://idle-ti.me)
 <!-- blog end -->
 
 <sub><!-- last_updated start -->
-Last updated on Wednesday, 10 April 2024, 20:28.
+Last updated on Wednesday, 10 April 2024, 21:23.
 <!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
