@@ -10,4 +10,11 @@ append_text = "\n\nMore on [idle-ti.me](https://idle-ti.me)"
 
 [sections.last_updated]
 plugin = "current_date"
-inline = true
+format = "%A, %d %B %Y, %H:%M"
+prepend_text = "Last updated on "
+append_text = "."
+
+[sections.ascii_art]
+plugin = "figlet"
+ascii_text = "be-next's"
+font = "small"
