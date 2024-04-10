@@ -1,0 +1,13 @@
+
+[sections.blog]
+plugin = "feed"
+url = "https://idle-ti.me/atom.xml"
+n = 5
+show_date = true
+separator = "•"
+prepend_text = "### Latest blog posts\n\n"
+append_text = "\n\nMore on [idle-ti.me](https://idle-ti.me)"
+
+[sections.last_updated]
+plugin = "current_date"
+inline = true
