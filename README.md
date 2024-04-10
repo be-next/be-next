@@ -12,8 +12,9 @@
 
 <!-- div to force newline -->
 <div style="clear: both;"></div>
-<br>
-<hr/>
+
+<br><br>
+
 <!-- blog start -->
 ### Latest blog posts
 
