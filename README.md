@@ -1,11 +1,3 @@
-### Welcome to <!-- ascii_art start -->
-```text
- _                          _   _    
-| |__  ___ ___ _ _  _____ _| |_( )___
-| '_ \/ -_)___| ' \/ -_) \ /  _|/(_-<
-|_.__/\___|   |_||_\___/_\_\\__| /__/
-```
-<!-- ascii_art end --> repositories
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jramette/)
 [<img src="https://img.shields.io/github/followers/be-next?label=follow&style=social" height="22" title="Follow me" />](https://github.com/be-next) 
@@ -18,7 +10,7 @@
   <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=be-next&hide_border=false&layout=compact&exclude_repo=TP-Blockchain,TP-IA&theme=vue&border_color=343341" />
 </a>
 
-</p>
+</br>
 
 <!-- blog start -->
 ### Latest blog posts
