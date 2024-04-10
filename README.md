@@ -10,9 +10,10 @@
   <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=be-next&hide_border=false&layout=compact&exclude_repo=TP-Blockchain,TP-IA&theme=vue&border_color=343341" />
 </a>
 
+<!-- div to force newline -->
+<div style="clear: both;"></div>
 <br>
 <hr/>
-
 <!-- blog start -->
 ### Latest blog posts
 
