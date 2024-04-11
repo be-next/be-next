@@ -10,6 +10,6 @@ append_text = "\n\nMore on [idle-ti.me](https://idle-ti.me)"
 
 [sections.last_updated]
 plugin = "current_date"
-format = "%A, %d %B %Y, %H:%M"
+format = "%A, %d %B %Y, %H:%M%Z"
 prepend_text = "Last updated on "
 append_text = "."
