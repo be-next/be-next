@@ -13,7 +13,7 @@
 <!-- div to force newline -->
 <div style="clear: both;"></div>
 
-<br><br>
+<br><br><br>
 
 <!-- blog start -->
 ### Latest blog posts
