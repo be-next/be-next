@@ -19,14 +19,14 @@
 ### Latest blog posts
 
 - [Computer history: Through Pieces of Apple History](https://idle-ti.me/blog/pieces-of-apple-history/) • 2025-01-27
-- [Zola: How to deploy a website using S3 Bucket and CloudFront](https://idle-ti.me/blog/zola-aws/) • 2024-03-11
-- [AI: WAZE Syndrome and Bias Sensitivity](https://idle-ti.me/blog/waze-syndrome/) • 2024-03-06
+- [Zola: How to deploy a website using S3 Bucket and CloudFront](https://idle-ti.me/blog/zola-aws/) • 2025-01-31
+- [AI: WAZE Syndrome and Bias Sensitivity](https://idle-ti.me/blog/waze-syndrome/) • 2024-03-29
 
 More on [idle-ti.me](https://idle-ti.me)
 <!-- blog end -->
 
 <sub><!-- last_updated start -->
-Last updated on Wednesday, 19 February 2025, 20:27 UTC.
+Last updated on Wednesday, 19 February 2025, 21:25 UTC.
 <!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img alt="Powered by dōteki" src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat&labelColor=202b2d&color=5E936C" align="right"></a>
