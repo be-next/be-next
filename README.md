@@ -7,38 +7,22 @@
 
 <!-- Light Mode -->
 <div align="center">
-<table>
-<tr>
-<td valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="be-next's Github stats" />
+<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="be-next's Github stats" style="vertical-align: top" />
 </a>
-</td>
-<td valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="be-next's Language stats" />
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="be-next's Language stats" style="vertical-align: top" />
 </a>
-</td>
-</tr>
-</table>
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
-<table>
-<tr>
-<td valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="be-next's Github stats" />
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="be-next's Github stats" style="vertical-align: top" />
 </a>
-</td>
-<td valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="be-next's Language stats" />
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="be-next's Language stats" style="vertical-align: top" />
 </a>
-</td>
-</tr>
-</table>
 </div>
 
 <!-- div to force newline -->
@@ -57,7 +41,7 @@ More on [idle-ti.me](https://idle-ti.me)
 <!-- blog end -->
 
 <sub><!-- last_updated start -->
-Last updated on Saturday, 10 January 2026, 09:23 UTC.
+Last updated on Saturday, 10 January 2026, 08:03 UTC.
 <!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img alt="Powered by dōteki" src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat&labelColor=202b2d&color=5E936C" align="right"></a>
