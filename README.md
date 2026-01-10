@@ -1,14 +1,29 @@
+# Hi there, I'm Jérôme Ramette 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jramette/)
-[<img src="https://img.shields.io/github/followers/be-next?label=follow&style=social" height="22" title="Follow me" />](https://github.com/be-next) 
+[<img src="https://img.shields.io/github/followers/be-next?label=follow&style=social" height="22" title="Follow me" />](https://github.com/be-next)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/baron_von_humboldt)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jerome.ramette@gmail.com)
 
-
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=be-next&show_icons=true&hide_border=false&include_all_commits=true&show=reviews&theme=vue&border_color=343341" />
-  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=be-next&hide_border=false&layout=compact&exclude_repo=TP-Blockchain,TP-IA&theme=vue&border_color=343341" />
+<!-- Light Mode -->
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="be-next's Language stats" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="be-next's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="be-next's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="be-next's Github stats" />
+</a>
+</div>
 
 <!-- div to force newline -->
 <div style="clear: both;"></div>
