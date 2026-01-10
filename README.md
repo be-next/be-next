@@ -1,4 +1,4 @@
-# Hi there, I'm Jérôme Ramette 👋
+### Hi there 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jramette/)
 [<img src="https://img.shields.io/github/followers/be-next?label=follow&style=social" height="22" title="Follow me" />](https://github.com/be-next)
@@ -8,27 +8,27 @@
 <!-- Light Mode -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="be-next's Language stats" />
+<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="be-next's Github stats" style="vertical-align: top" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="be-next's Github stats" />
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="be-next's Language stats" style="vertical-align: top" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="be-next's Language stats" />
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="be-next's Github stats" style="vertical-align: top" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="be-next's Github stats" />
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="be-next's Language stats" style="vertical-align: top" />
 </a>
 </div>
 
 <!-- div to force newline -->
 <div style="clear: both;"></div>
 
-<br><br><br>
+<br><br>
 
 <!-- blog start -->
 ### Latest blog posts
