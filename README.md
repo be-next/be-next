@@ -7,22 +7,38 @@
 
 <!-- Light Mode -->
 <div align="center">
+<table>
+<tr>
+<td valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="be-next's Github stats" style="vertical-align: top" />
+<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="be-next's Github stats" />
 </a>
+</td>
+<td valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="be-next's Language stats" style="vertical-align: top" />
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="be-next's Language stats" />
 </a>
+</td>
+</tr>
+</table>
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
+<table>
+<tr>
+<td valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="be-next's Github stats" style="vertical-align: top" />
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="be-next's Github stats" />
 </a>
+</td>
+<td valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="be-next's Language stats" style="vertical-align: top" />
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="be-next's Language stats" />
 </a>
+</td>
+</tr>
+</table>
 </div>
 
 <!-- div to force newline -->
