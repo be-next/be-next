@@ -50,6 +50,12 @@ jobs:
                   path: profile/top-langs-dark.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
+            - name: Generate streak (light mode)
+              run: curl -o profile/streak-light.svg "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&theme=default"
+
+            - name: Generate streak (dark mode)
+              run: curl -o profile/streak-dark.svg "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&theme=dark&background=000000"
+
             - name: Commit cards
               run: |
                   git config user.name "github-actions"
