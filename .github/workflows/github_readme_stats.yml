@@ -51,10 +51,22 @@ jobs:
                   token: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Generate streak (light mode)
-              run: curl -o profile/streak-light.svg "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&theme=default"
+              uses: be-next/github-streak-stats-action@v0
+              with:
+                  username: ${{ github.repository_owner }}
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  output-path: profile/streak-light.svg
+                  theme: default
+                  hide-border: true
 
             - name: Generate streak (dark mode)
-              run: curl -o profile/streak-dark.svg "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&hide_border=true&theme=dark&background=000000"
+              uses: be-next/github-streak-stats-action@v0
+              with:
+                  username: ${{ github.repository_owner }}
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  output-path: profile/streak-dark.svg
+                  theme: dark
+                  hide-border: true
 
             - name: Commit cards
               run: |
