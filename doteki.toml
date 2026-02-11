@@ -4,7 +4,7 @@ credits = '<a href="https://doteki.org"><img alt="Powered by dōteki" src="https
 [sections.blog]
 plugin = "feed"
 url = "https://idle-ti.me/atom.xml"
-n = 5
+n = 10
 show_date = true
 separator = "•"
 prepend_text = "### Latest blog posts\n\n"
