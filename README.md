@@ -26,8 +26,8 @@
 <!-- blog start -->
 ### Latest blog posts
 
-- [Awesome Observability Tools](https://idle-ti.me/awesome-performance-engineering/observability-tools/) • 2026-02-17
-- [Awesome Performance Testing Tools](https://idle-ti.me/awesome-performance-engineering/performance-testing-tools/) • 2026-02-17
+- [Awesome Observability Tools](https://idle-ti.me/awesome-performance-engineering/observability-tools/) • 2026-02-19
+- [Awesome Performance Testing Tools](https://idle-ti.me/awesome-performance-engineering/performance-testing-tools/) • 2026-02-19
 - [Computer history: Through Pieces of Apple History](https://idle-ti.me/blog/pieces-of-apple-history/) • 2025-03-12
 - [Zola: How to deploy a website using S3 Bucket and CloudFront](https://idle-ti.me/blog/zola-aws/) • 2025-01-31
 - [AI: WAZE Syndrome and Bias Sensitivity](https://idle-ti.me/blog/waze-syndrome/) • 2024-03-29
@@ -36,7 +36,7 @@ More on [idle-ti.me](https://idle-ti.me)
 <!-- blog end -->
 
 <sub><!-- last_updated start -->
-Last updated on Thursday, 19 February 2026, 03:21 UTC.
+Last updated on Friday, 20 February 2026, 03:18 UTC.
 <!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img alt="Powered by dōteki" src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat&labelColor=202b2d&color=5E936C" align="right"></a>
