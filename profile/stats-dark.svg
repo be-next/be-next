@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">J&#233;r&#244;me Ramette's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 60, Total Commits  : 1424, Total PRs: 35, Total PRs Reviewed: 324, Total Issues: 2, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 60, Total Commits  : 1436, Total PRs: 35, Total PRs Reviewed: 324, Total Issues: 2, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 122.6542965941234;
+        stroke-dashoffset: 122.52498910624195;
       }
     }
   
