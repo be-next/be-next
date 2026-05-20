@@ -1,15 +1,15 @@
 
       <svg
-        width="451.4687500000001"
+        width="347"
         height="269"
-        viewBox="0 0 451.4687500000001 269"
+        viewBox="0 0 347 269"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">J&#233;r&#244;me Ramette's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 62, Total Commits  : 1469, Total PRs: 35, Total PRs Reviewed: 328, Total Issues: 2, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 72, Total Commits  : 1470, Total PRs: 35, Total PRs Reviewed: 329, Total Issues: 2, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 120.5428934879992;
+        stroke-dashoffset: 117.46684231910952;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="450.4687500000001"
+          width="346"
           fill="#000000"
           stroke-opacity="0"
         />
@@ -148,10 +148,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
-      >62</text>
+      >72</text>
     </g>
   </g><g transform="translate(0, 28)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -163,7 +163,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
       >1.5k</text>
@@ -178,7 +178,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
       >35</text>
@@ -193,10 +193,10 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs Reviewed:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="reviews"
-      >328</text>
+      >329</text>
     </g>
   </g><g transform="translate(0, 112)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -208,7 +208,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
       >2</text>
@@ -223,7 +223,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Discussions Answered:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="discussions_answered"
       >0</text>
@@ -238,7 +238,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
       >10</text>
