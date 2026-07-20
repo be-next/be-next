@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">J&#233;r&#244;me Ramette's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 460, Total Commits  : 1524, Total PRs: 35, Total PRs Reviewed: 328, Total Issues: 2, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 462, Total Commits  : 1525, Total PRs: 35, Total PRs Reviewed: 325, Total Issues: 2, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.24363354977251;
+        stroke-dashoffset: 91.20145790550613;
       }
     }
   
@@ -151,7 +151,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >460</text>
+      >462</text>
     </g>
   </g><g transform="translate(0, 28)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >328</text>
+      >325</text>
     </g>
   </g><g transform="translate(0, 112)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
