@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">J&#233;r&#244;me Ramette's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 471, Total Commits  : 1536, Total PRs: 35, Total PRs Reviewed: 324, Total Issues: 2, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
+        <title id="titleId">J&#233;r&#244;me Ramette&#39;s GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 470, Total Commits  : 1537, Total PRs: 35, Total PRs Reviewed: 325, Total Issues: 2, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.94957569426847;
+        stroke-dashoffset: 90.95502826092233;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >J&#233;r&#244;me Ramette's GitHub Stats</text>
+      >J&#233;r&#244;me Ramette&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -151,7 +151,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >471</text>
+      >470</text>
     </g>
   </g><g transform="translate(0, 28)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >324</text>
+      >325</text>
     </g>
   </g><g transform="translate(0, 112)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
