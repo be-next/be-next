@@ -27,7 +27,8 @@
 <!-- blog start -->
 ### Latest blog posts
 
-- [Reading Performance Testing by Use Case](https://idle-ti.me/blog/performance-testing-by-use-case/) • 2026-06-11
+- [The Autonomy Ladder: AI, Performance Engineering, and the Place of the Human](https://idle-ti.me/blog/autonomy-ladder/) • 2026-08-04
+- [Reading Performance Testing by Use Case](https://idle-ti.me/blog/performance-testing-by-use-case/) • 2026-08-04
 - [Reading Observability by Intent](https://idle-ti.me/blog/observability-by-intent/) • 2026-06-11
 - [Coordinated Omission: Why Your Latency Numbers Lie](https://idle-ti.me/blog/coordinated-omission/) • 2026-06-11
 - [Computer history: Through Pieces of Apple History](https://idle-ti.me/blog/pieces-of-apple-history/) • 2025-03-12
@@ -38,7 +39,7 @@ More on [idle-ti.me](https://idle-ti.me)
 <!-- blog end -->
 
 <sub><!-- last_updated start -->
-Last updated on Tuesday, 04 August 2026, 03:31 UTC.
+Last updated on Wednesday, 05 August 2026, 03:29 UTC.
 <!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img alt="Powered by dōteki" src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat&labelColor=202b2d&color=5E936C" align="right"></a>
