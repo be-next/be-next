@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/github/followers/be-next?label=follow&style=social" height="22" title="Follow me" />](https://github.com/be-next)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/baron_von_humboldt)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jerome.ramette@gmail.com)
-
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=flat&logo=strava&logoColor=white)](https://www.strava.com/athletes/60000105)
 
 <!-- Light Mode -->
 <div align="center">
