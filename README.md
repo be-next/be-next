@@ -32,14 +32,14 @@
 - [Reading Observability by Intent](https://idle-ti.me/blog/observability-by-intent/) • 2026-06-11
 - [Coordinated Omission: Why Your Latency Numbers Lie](https://idle-ti.me/blog/coordinated-omission/) • 2026-06-11
 - [Computer history: Through Pieces of Apple History](https://idle-ti.me/blog/pieces-of-apple-history/) • 2025-03-12
-- [Zola: How to deploy a website using S3 Bucket and CloudFront](https://idle-ti.me/blog/zola-aws/) • 2025-01-31
+- [Zola: How to deploy a website using S3 Bucket and CloudFront](https://idle-ti.me/blog/zola-aws/) • 2026-11-21
 - [AI: WAZE Syndrome and Bias Sensitivity](https://idle-ti.me/blog/waze-syndrome/) • 2024-03-29
 
 More on [idle-ti.me](https://idle-ti.me)
 <!-- blog end -->
 
 <sub><!-- last_updated start -->
-Last updated on Saturday, 21 November 2026, 02:27 UTC.
+Last updated on Sunday, 22 November 2026, 02:28 UTC.
 <!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img alt="Powered by dōteki" src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat&labelColor=202b2d&color=5E936C" align="right"></a>
